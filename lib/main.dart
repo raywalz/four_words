@@ -5,6 +5,7 @@ import 'dart:math';
 void main() {
   runApp(
     MaterialApp(
+      debugShowCheckedModeBanner: false,
       title: 'Four Words',
       theme: ThemeData.dark(),
       home: Scaffold(
