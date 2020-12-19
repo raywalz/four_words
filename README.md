@@ -1,16 +1,12 @@
-# four_words
+# Four Words
 
-A new Flutter project.
+A passphrase generator written in Flutter. Under development. Currently only uses [EFF Short Wordlist for Passphrases #1](https://www.eff.org/document/eff-short-wordlist-passphrases-1).
 
-## Getting Started
+## TO-DO:
+- Generate random words on load
+- Convert to [Random.secure()](https://api.dart.dev/stable/2.10.4/dart-math/Random/Random.secure.html)
+- Add option to use [EFF Large Wordlist for Passphrases](https://www.eff.org/document/passphrase-wordlists)
+- Add option to add a random number.
+- Add option to add a random symbol.
+- Add option to randomly capitalize one of the words.
 
-This project is a starting point for a Flutter application.
-
-A few resources to get you started if this is your first Flutter project:
-
-- [Lab: Write your first Flutter app](https://flutter.dev/docs/get-started/codelab)
-- [Cookbook: Useful Flutter samples](https://flutter.dev/docs/cookbook)
-
-For help getting started with Flutter, view our
-[online documentation](https://flutter.dev/docs), which offers tutorials,
-samples, guidance on mobile development, and a full API reference.
