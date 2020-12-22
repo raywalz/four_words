@@ -2,7 +2,9 @@
 
 A passphrase generator written in Flutter. Under development. Currently only uses [EFF Short Wordlist for Passphrases #1](https://www.eff.org/document/eff-short-wordlist-passphrases-1). Web version hosted at: [fourwords.raywalz.com](https://fourwords.raywalz.com)
 
-![](four_words_screenshot.png)
+<img src="screenshot.png" alt="screenshot of Four Words" width="300">
+
+
 
 ## TO-DO:
 - Generate random words on load
