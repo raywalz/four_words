@@ -1,6 +1,6 @@
 # Four Words
 
-A passphrase generator written in Flutter. Under development. Currently only uses [EFF Short Wordlist for Passphrases #1](https://www.eff.org/document/eff-short-wordlist-passphrases-1).
+A passphrase generator written in Flutter. Under development. Currently only uses [EFF Short Wordlist for Passphrases #1](https://www.eff.org/document/eff-short-wordlist-passphrases-1). Web version hosted at: [fourwords.raywalz.com](https://fourwords.raywalz.com)
 
 ![](four_words_screenshot.png)
 
